@@ -107,20 +107,6 @@ event-management-system/
    \`\`\`
    Application will open at \`http://localhost:3000\`
 
-## 🔐 Default Users
-
-The system comes with sample users for testing:
-
-- **Admin User**
-  - Email: \`admin@example.com\`
-  - Password: \`password123\`
-  - Role: Admin
-
-- **Regular Users**
-  - Email: \`john@example.com\` / \`jane@example.com\`
-  - Password: \`password123\`
-  - Role: Participant
-
 ## 📱 Usage
 
 1. **Register/Login**: Create an account or use sample credentials
