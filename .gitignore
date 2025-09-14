@@ -1,0 +1,17 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore Node.js dependency directory
+node_modules/
+
+# Ignore temporary files
+*.tmp
+temp/
+
+# Ignore sensitive configuration files
+config.ini
+secrets.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
